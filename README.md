@@ -13,8 +13,8 @@ Frontend/Streamlit: To enhance accessibility and user-friendliness, I designed a
 
 PREDICTIONS :
 
-        ![Screenshot (31)](https://github.com/Anjalimishra2004/Email_Spam_Classification/assets/149240606/21fe2331-88ac-481f-ae0f-685abce0e0c9)
+ ![Screenshot (32)](https://github.com/Anjalimishra2004/Email_Spam_Classification/assets/149240606/ef559aff-1a9c-45e1-a84a-ac956b1b0cdd)
+ 
+ ![Screenshot (31)](https://github.com/Anjalimishra2004/Email_Spam_Classification/assets/149240606/98f103d9-93f7-42d6-882f-7a549b5799ed)
 
-
-        ![Screenshot (32)](https://github.com/Anjalimishra2004/Email_Spam_Classification/assets/149240606/9b47d6c1-6498-4785-9237-cfb74398d7dd)
 
