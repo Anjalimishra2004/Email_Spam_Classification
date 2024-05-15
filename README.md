@@ -1,6 +1,5 @@
 # Email_Spam_Classification
 In my  project focusing on email spam classification, I followed a systematic approach to ensure accuracy and efficiency:
-
 Dataset & Jupyter Notebook Setup : I began by meticulously sourcing and preprocessing the email dataset, ensuring it was clean and suitable for analysis. Leveraging Jupyter Notebooks, I streamlined the development process for optimal efficiency.
 
 Data Preprocessing : This crucial phase involved thorough cleaning and organization of the email dataset. I handled missing values, encoded categorical variables, and prepared the data for subsequent analysis, ensuring its accuracy and reliability.
@@ -13,8 +12,10 @@ Frontend/Streamlit: To enhance accessibility and user-friendliness, I designed a
 
 PREDICTIONS :
 
+1.
  ![Screenshot (32)](https://github.com/Anjalimishra2004/Email_Spam_Classification/assets/149240606/ef559aff-1a9c-45e1-a84a-ac956b1b0cdd)
- 
+
+2.
  ![Screenshot (31)](https://github.com/Anjalimishra2004/Email_Spam_Classification/assets/149240606/98f103d9-93f7-42d6-882f-7a549b5799ed)
 
 
