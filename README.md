@@ -12,3 +12,8 @@ Main Function : I developed the core functionality of the email spam classificat
 Frontend/Streamlit: To enhance accessibility and user-friendliness, I designed a frontend interface using Streamlit. This interface allowed users to interact with the system seamlessly, enabling them to classify emails efficiently and mitigate spam effectively.
 
 
+![Screenshot (31)](https://github.com/Anjalimishra2004/Email_Spam_Classification/assets/149240606/21fe2331-88ac-481f-ae0f-685abce0e0c9)
+
+
+![Screenshot (32)](https://github.com/Anjalimishra2004/Email_Spam_Classification/assets/149240606/9b47d6c1-6498-4785-9237-cfb74398d7dd)
+
