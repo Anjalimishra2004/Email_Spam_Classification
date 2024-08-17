@@ -6,7 +6,7 @@ Data Preprocessing : This crucial phase involved thorough cleaning and organizat
 
 Vectorization: Employing techniques like  CountVectorizer, I transformed the textual content of emails into numerical representations suitable for machine learning algorithms. This step was vital for converting raw text data into a format understandable by algorithms.
 
-Main Function : I developed the core functionality of the email spam classification system, implementing algorithms such as Naive Bayes- MultinomialNB. These algorithms enabled the system to accurately classify emails as spam or non-spam based on their content.
+Main Function : I developed the core functionality of the email spam classification system, implementing algorithms such as Naive Bayes- MultinomialNB. These algorithms enabled the system to accurately classify emails as spam or non-spam based on their content and predicted a model score.
 
 Frontend/Streamlit: To enhance accessibility and user-friendliness, I designed a frontend interface using Streamlit. This interface allowed users to interact with the system seamlessly, enabling them to classify emails efficiently and mitigate spam effectively.
 
